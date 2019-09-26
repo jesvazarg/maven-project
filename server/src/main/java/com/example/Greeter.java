@@ -1,5 +1,5 @@
 /**
- * Package to say hello.
+ * Info about this package doing something for package-info.java file.
  */
 package com.example;
 
@@ -16,11 +16,11 @@ public class Greeter {
   }
 
   /**
-   * This is other toString
-   * @param someone to say hello
-   * @return greetings
+   * This is other toString.
+   * @param someone to say hello.
+   * @return greetings.
    */
-  public String greet(final String someone) {
+  public final String greet(final String someone) {
     return String.format("Hello, %s!", someone);
   }
 }
