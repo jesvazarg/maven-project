@@ -1,3 +1,6 @@
+/**
+ * Package to say hello.
+ */
 package com.example;
 
 /**
@@ -14,8 +17,10 @@ public class Greeter {
 
   /**
    * This is other toString
+   * @param someone to say hello
+   * @return greetings
    */
-  public final String greet(final String someone) {
+  public String greet(final String someone) {
     return String.format("Hello, %s!", someone);
   }
 }
