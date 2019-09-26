@@ -1,5 +1,5 @@
 /**
-* This class say hello
+* This class say hello.
 * <p>
 * greet
 * </p>
