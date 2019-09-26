@@ -1,10 +1,3 @@
-/**
- * Package to say hello
- *
- * @since 1.0
- * @author jesus
- * @version 1.0
- */
 package com.example;
 
 /**
