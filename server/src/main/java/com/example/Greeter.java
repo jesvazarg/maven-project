@@ -1,5 +1,9 @@
 /**
- * Info about this package doing something for package-info.java file.
+ * Package to say hello
+ *
+ * @since 1.0
+ * @author jesus
+ * @version 1.0
  */
 package com.example;
 
